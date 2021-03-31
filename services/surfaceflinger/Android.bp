@@ -39,6 +39,7 @@ cc_defaults {
         "-Wunreachable-code",
         "-Wunused",
         "-O3",
+        "-g0"
     ],
 }
 
