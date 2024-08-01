@@ -402,6 +402,7 @@ cc_defaults {
     ],
 
     afdo: true,
+    lto_Instr100: true,
 
     lto: {
         thin: true,
